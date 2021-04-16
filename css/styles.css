@@ -83,6 +83,7 @@
         color: white;
         background-color: #2f323a;
         margin: 0 5px 0 0px;
+        transition: 0.5s;
     }
     
     .navbar__menu .menu__link:hover {
